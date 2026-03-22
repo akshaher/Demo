@@ -1,0 +1,21 @@
+npm ERR! code ERESOLVE
+npm ERR! ERESOLVE unable to resolve dependency tree
+npm ERR! 
+npm ERR! While resolving: demo@0.0.0
+npm ERR! Found: react@19.2.4
+npm ERR! node_modules/react
+npm ERR!   dev react@"19.2.4" from the root project
+npm ERR! 
+npm ERR! Could not resolve dependency:
+npm ERR! peer react@"^16.8.0 || ^17.0.0 || ^18.0.0" from @storybook/addon-essentials@7.6.20
+npm ERR! node_modules/@storybook/addon-essentials
+npm ERR!   dev @storybook/addon-essentials@"7.6.20" from the root project
+npm ERR! 
+npm ERR! Fix the upstream dependency conflict, or retry
+npm ERR! this command with --force, or --legacy-peer-deps
+npm ERR! to accept an incorrect (and potentially broken) dependency resolution.
+npm ERR! 
+npm ERR! See C:\Users\user\AppData\Local\npm-cache\eresolve-report.txt for a full report.
+
+npm ERR! A complete log of this run can be found in:
+npm ERR!     C:\Users\user\AppData\Local\npm-cache\_logs\2026-03-17T06_52_24_445Z-debug-0.log
