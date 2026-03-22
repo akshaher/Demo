@@ -6,5 +6,5 @@ import { Component } from '@angular/core';
   styleUrls: ['./student-list.component.css']
 })
 export class StudentListComponent {
-students:string[]=['John', 'Jane', 'Jim', 'Jill'];
+// students:string[]=['John', 'Jane', 'Jim', 'Jill'];
 }
